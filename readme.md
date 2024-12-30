@@ -22,8 +22,8 @@ Este é um projeto em Python utilizando o Streamlit para criar uma interface web
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git https://github.com/Peterson047/groq-transcryption.git
+cd groq-transcryption
 ```
 
 ### Passo 2: Criar um ambiente virtual (opcional)

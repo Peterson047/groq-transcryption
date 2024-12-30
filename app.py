@@ -4,7 +4,7 @@ import requests
 import tempfile
 
 # Configurações da API
-groq_api_key = "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"
+groq_api_key = "API_KEY_HERRE"
 groq_api_endpoint = "https://api.groq.com/openai/v1/audio/transcriptions"
 headers = {"Authorization": f"Bearer {groq_api_key}"}
 
